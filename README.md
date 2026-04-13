@@ -31,7 +31,7 @@
 
 ### About Us
 
-We combine global cloud expertise with deep understanding of the African business landscape to deliver solutions that drive real transformation.
+Pluto Cloud Computing delivers enterprise-grade cloud infrastructure, security, and managed services designed to help organizations grow, adapt, and operate with confidence.
 
 **Key Highlights:**
 - 99.9% Uptime SLA
@@ -61,7 +61,7 @@ We combine global cloud expertise with deep understanding of the African busines
 - **Microsoft 365** — Fully managed M365 deployment and support.
 - **Contact Centre** — Cloud-based omnichannel customer engagement.
 
-**[View All Services →](https://plutocloudcomputing.ng/services)**
+**[View All Services →](https://plutocloudcomputing.ng)**
 
 ---
 
@@ -91,11 +91,19 @@ We combine global cloud expertise with deep understanding of the African busines
 
 ---
 
-### Ready to Modernize Your IT Infrastructure?
+### Nigeria Office
 
-Let our experts design a cloud solution that fits your business. 
+**9A Kiumi Akingbehin Street, Lekki Phase I, Lagos**  
+📞 **+234 913 067 1334**
 
-**[Contact Us](https://plutocloudcomputing.ng/contact)** | **[Request a Demo](https://plutocloudcomputing.ng/contact)**
+---
+
+### Connect With Us
+
+- 🌐 **Website**: [plutocloudcomputing.ng](https://plutocloudcomputing.ng)
+- 💼 **LinkedIn**: [Pluto Cloud Computing NG](https://www.linkedin.com/company/pluto-cloud-computing-ng)
+- 𝕏 **Twitter**: [@PlutoCloudNG](https://twitter.com/PlutoCloudNG)
+- 📸 **Instagram**: [@PlutoCloudNG](https://www.instagram.com/PlutoCloudNG)
 
 ---
 
