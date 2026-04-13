@@ -22,7 +22,7 @@
   </a>
 
   <br><br>
-  <a href="https://plutocloudcomputing.ng" target="_blank">
+  <a href="https://plutocloudcomputing.ng/contact" target="_blank">
     <strong>Request a Demo</strong>
   </a>
 </div>
@@ -107,6 +107,6 @@ Pluto Cloud Computing delivers enterprise-grade cloud infrastructure, security, 
 
 ---
 
-**Built for Africa. Engineered for Excellence.**
+**Built for scaling Enterprises. Engineered for Excellence.**
 
 *Copyright © 2026 Pluto Cloud Computing. All Rights Reserved.*
