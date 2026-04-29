@@ -2,11 +2,8 @@
   <img src="https://raw.githubusercontent.com/plutocloudcomputing/.github/main/logo.png" alt="Pluto Cloud Computing Logo" width="220" height="auto" />
   
   <h1>Pluto Cloud Computing</h1>
-  <p><strong>Powering Secure, Scalable Cloud Solutions for African Businesses</strong></p>
-  
-  <p>
-    Pluto Cloud Computing delivers enterprise-grade cloud infrastructure, security, and managed services designed to help organizations grow, adapt, and operate with confidence.
-  </p>
+
+   <img src="https://raw.githubusercontent.com/plutocloudcomputing/.github/main/hmpg.png" alt="Pluto Cloud Computing landing page" />
 
   <a href="https://plutocloudcomputing.ng" target="_blank">
     <img src="https://img.shields.io/badge/Website-plutocloudcomputing.ng-0A66C2?style=for-the-badge&logo=web" alt="Website" />
