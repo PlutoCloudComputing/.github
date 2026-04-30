@@ -19,11 +19,11 @@
   </a>
 
   <br><br>
-  <a href="https://plutocloudcomputing.ng/contact" target="_blank">
+  <a href="https://plutocloudcomputing.ng/contact" target="_blank" >
     <strong>🚀 Request a Demo</strong>
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://plutocloudcomputing.ng" target="_blank">
+  <a href="https://plutocloudcomputing.ng" target="_blank" >
     <strong>📖 Learn More</strong>
   </a>
 </div>
@@ -125,8 +125,8 @@ High-speed, low-latency Internet, dedicated connections, SIP Trunk, and VoIP sol
 
 
 ### For Partners & Resellers
-- 🤝 [Partnership Program](https://plutocloudcomputing.ng)
-- 📊 [Reseller Portal](https://plutocloudcomputing.ng)
+- 🤝 [Partnership Program](https://plutocloudcomputing.ng/partners)
+- 📊 [Reseller Portal](https://plutocloudcomputing.ng/partners)
 
 ---
 
