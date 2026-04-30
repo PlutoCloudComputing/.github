@@ -134,7 +134,7 @@ High-speed, low-latency Internet, dedicated connections, SIP Trunk, and VoIP sol
 
 ### Nigeria Office
 📍 **9A Kiumi Akingbehin Street, Lekki Phase I, Lagos**  
-📞 **+234 913 067 1334**  
+📞 **[+234 913 067 1334](tel:+2349130671334)**  
 ✉️ **[info@plutocloudcomputing.ng](mailto:info@plutocloudcomputing.ng)**  
 🌐 **[www.plutocloudcomputing.ng](https://plutocloudcomputing.ng)**
 
