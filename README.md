@@ -137,10 +137,9 @@ High-speed, low-latency Internet, dedicated connections, SIP Trunk, and VoIP sol
 📞 **[+234 913 067 1334](tel:+2349130671334)**  
 ✉️ **[info@plutocloudcomputing.ng](mailto:info@plutocloudcomputing.ng)**  
 🌐 **[www.plutocloudcomputing.ng](https://plutocloudcomputing.ng)**
-
-| 💼 **LinkedIn**  [Pluto Cloud Computing NG](https://www.linkedin.com/company/pluto-cloud-computing-ng)
-| 𝕏 **Twitter**  [@PlutoCloudNG](https://twitter.com/PlutoCloudNG) 
-| 📸 **Instagram** [@PlutoCloudNG](https://www.instagram.com/PlutoCloudNG) 
+💼 **LinkedIn**  [Pluto Cloud Computing NG](https://www.linkedin.com/company/pluto-cloud-computing-ng)
+𝕏 **Twitter**  [@PlutoCloudNG](https://twitter.com/PlutoCloudNG) 
+📸 **Instagram** [@PlutoCloudNG](https://www.instagram.com/PlutoCloudNG) 
  
 ---
 
